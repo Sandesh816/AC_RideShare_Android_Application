@@ -15,17 +15,14 @@ Every holiday hundreds of Amherst College students head to Boston, NYC, or home�
 * Offline cache, coroutine Flows, Hilt DI.
 
 ## 📸 Screenshots
-| Home | Search | Create Ride | Current Ride | Profile
-|------|--------|-------------|--------------|
-![Screenshot_1747315639](https://github.com/user-attachments/assets/6a30d37d-8f44-4cb3-867e-d7a0e4b4cd87)
-|
-![Screenshot_1747315701](https://github.com/user-attachments/assets/e1b63fab-3622-40ca-97a9-4389ec4f5186)
-|
-![Screenshot_1747315727](https://github.com/user-attachments/assets/5ad0b96d-dfc0-4e94-8372-22221d6ed96c)
-|
-![Screenshot_1747315736](https://github.com/user-attachments/assets/735d8c8b-df83-4d82-a55e-10009a43770d)
-|
-![Screenshot_1747315741](https://github.com/user-attachments/assets/d7abaf39-2480-4594-98d5-89cb06217861)
+| Home | Search | Create Ride | Current Ride | Profile |
+|:----:|:------:|:-----------:|:------------:|:-------:|
+| 
+![Home](https://github.com/user-attachments/assets/6a30d37d-8f44-4cb3-867e-d7a0e4b4cd87)	|
+![Search](https://github.com/user-attachments/assets/e1b63fab-3622-40ca-97a9-4389ec4f5186)	|
+![Create Ride](https://github.com/user-attachments/assets/5ad0b96d-dfc0-4e94-8372-22221d6ed96c)	|
+![Current Ride](https://github.com/user-attachments/assets/735d8c8b-df83-4d82-a55e-10009a43770d)	|
+![Profile](https://github.com/user-attachments/assets/d7abaf39-2480-4594-98d5-89cb06217861)	|
 
 ## 🏗 Architecture
 Jetpack Compose ──► ViewModels (Hilt + Coroutines / Flow) ──► Repositories
